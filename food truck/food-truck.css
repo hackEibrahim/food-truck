@@ -1,0 +1,170 @@
+body {
+  background: white;
+}
+
+.main {
+  border: 40px solid #fcd110;
+  height: 50rem;
+}
+
+nav {
+  background-color: #cfcccc;
+  padding: 10px 15px 10px 15px;
+}
+
+nav .food {
+  background-color: white;
+  width: 30px;
+  height: 25px;
+  color: black;
+  font-size: 10px;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: 15px;
+  padding-left: 2.5px;
+}
+
+nav a {
+  color: black;
+  font-weight: bold;
+  font-size: 10px;
+  font-family: Arial;
+  text-decoration: none;
+  position: relative;
+  left: 30%;
+  margin-right: 15px;
+}
+
+nav .blog {
+  color: #fcd110;
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
+}
+
+nav p {
+  float: right;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: arial;
+  word-spacing: 15px;
+  margin-right: 60px;
+  margin-left: 0px;
+}
+
+nav .arrow {
+  background-color: #fcd110;
+  width: 15px;
+  border-radius: 50px;
+  text-align: center;
+  position: relative;
+  left: 13%;
+}
+
+h1 {
+  width: 25rem;
+  position: relative;
+  left: 10%;
+  margin-top: 5rem;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.ede {
+  width: 20rem;
+  position: relative;
+  left: 10%;
+  font-size: 10px;
+  margin-top: -10px;
+}
+
+button, .lad {
+  color: Black;
+  background-color: #fcd110;
+  text-align: center;
+  border: none;
+  padding: 4px 5px 4px 5px;
+  position: relative;
+  left: 10%;
+  width: 5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.lad {
+  background-color: black;
+  color: white;
+  margin-left: 5px;
+  font-weight: normal;
+}
+
+.more {
+  color: black;
+  font-size: 10px;
+  font-family: arial;
+  display: inline-block;
+  position: relative;
+  left: 10%;
+  margin-left: 7.5px;
+}
+
+.more span {
+  color: #fcd110;
+}
+
+.more + img {
+  width: 20rem;
+  margin-left: 27rem;
+  margin-top: -10rem;
+}
+
+.lower img {
+  width: 25rem;
+  margin-left: 10rem;
+  margin-right: 15rem;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: Arial;
+  font-weight: bold;
+  float: right;
+  margin-right: 20rem;
+  margin-top: -15rem;
+}
+
+h3 + h1 {
+  width: 20rem;
+  color: black;
+  font-weight: bold;
+  font-family: arial;
+  border-left: 2px solid #fcd110;
+  display: inline-block;
+  margin-left: -10rem;
+  padding-left: 10px;
+  margin-bottom: 5rem;
+}
+
+.lower p {
+  float: right;
+  width: 25rem;
+  margin-right: 5rem;
+  margin-top: -4.5rem;
+}
+
+.lower button, .lower .lad {
+  position: relative;
+  left: 62%;
+  background-color: #fcd110;
+  margin-top: -5rem;
+}
+
+.lower .lad {
+  background-color: white;
+  border: groove;
+  color: black;
+  padding: 2px 5px 2px 5px;
+}
+/*# sourceMappingURL=food-truck.css.map */
